@@ -39,9 +39,9 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 3228,
-  "guid": "a020d694-5286-44a9-965c-f58067c4c1ec",
+  "guid": "64acb081-4cf9-4ff1-853a-0e1f357b89e0",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Asus\\Twitch\\Minecraft\\Instances\\eom-heavy-industries\\",
+  "installPath": "C:\\Users\\Noémi\\Twitch\\Minecraft\\Instances\\eom-heavy-industries\\",
   "name": "eom-heavy-industries",
   "cachedScans": [],
   "isValid": true,
@@ -66,7 +66,7 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2020-02-27T13:25:10.6713986Z",
+  "installDate": "2020-02-27T14:06:34.655528Z",
   "installedAddons": [],
   "isMigrated": false,
   "preferenceUploadProfile": false
